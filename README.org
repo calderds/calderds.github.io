@@ -1,3 +1,17 @@
+#+TITLE: Calder Sheagren's Website
+#+AUTHOR: Calder Sheagren
+#+PROPERTY: header-args :tangle index.html
+
+* INTRODUCTION
+
+This file is a literate wrapper for the =index.html= file for my website. It contains all source code for the website, with some light documentation.
+
+* HEADER PROPERTIES
+
+In this block, I set some CSS style parameters.
+
+#+BEGIN_SRC html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +101,14 @@ OBJECT {
 
 </style>
 </head>
+#+END_SRC
 
+
+* BODY BLOCK
+
+In this block, I create the body of the document, with the overall structure and titlebar.
+
+#+BEGIN_SRC html
 <body>
 
   <div id="Titlebar" class="titlebar">
@@ -101,7 +122,13 @@ OBJECT {
 <button class="tablink" onclick="openPage('About', this)">About</button>
 <button class="tablink" onclick="openPage('News', this)"  >News</button>
 <button class="tablink" onclick="openPage('Contact', this)">Contact</button>
+#+END_SRC
 
+* CONTENT BLOCKS
+
+Here are the blocks for each page in my website. (TODO: incorporate all files into this file)
+
+#+BEGIN_SRC html
 <div id="Home" class="tabcontent">
   <h2 style="color:#bd93f9">Home</h2>
   <OBJECT data="home.html"></OBJECT>
@@ -121,7 +148,14 @@ OBJECT {
   <h2 style="color:#50fa7b">Contact</h2>
   <OBJECT data="contact.html"</OBJECT>
 </div>
+#+END_SRC
 
+
+* JAVASCRIPT BLOCKS
+
+In this section, I have some javascript functions to make the multiple tabs on my page work, all from one file.
+
+#+BEGIN_SRC html
 <script>
 function openPage(pageName,elmnt,color) {
   var i, tabcontent, tablinks;
@@ -145,3 +179,4 @@ document.getElementById("defaultOpen").click();
 
 </body>
 </html>
+#+END_SRC
