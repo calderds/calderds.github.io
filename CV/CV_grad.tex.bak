@@ -1,0 +1,110 @@
+\documentclass[12pt]{article}
+\usepackage{fullpage}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{mhchem}
+\usepackage{setspace}
+\usepackage{graphicx}
+\setstretch{.89}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+}
+
+\date{}
+\begin{document}
+\begin{center}
+ \Large \sf CALDER D SHEAGREN\\
+ { \normalsize \sf caldersheagren@gmail.com $|$ 760-685-7245 (US) $|$ \href{http://bit.do/sheagren}{bit.do/sheagren}}
+\end{center}
+
+\subsection*{\sf Biographical Information}
+\begin{itemize}
+\item[] \textbf{Born:} Oct. 1997 in San Diego, California, USA
+\item[] \textbf{Citizenship:} USA
+\item[] \textbf{Languages:} English, some Mandarin Chinese
+\end{itemize}
+
+\subsection*{\sf Education}
+
+\begin{itemize}
+\item[] {\bf University of Toronto}: Ph.D. Medical Biophysics. \\ 
+Expected Graduation: June 2026
+
+\item[] {\bf University of Chicago}: B.S. Mathematics with Honors,  Physics Concentration. \\ Graduated June 2020, GPA: 3.60/4.00.\\  Dean's List 2016-2017, 2017-2018, 2018-2019.
+
+\item[]\textbf{Pacific Ridge School}: Graduated June 2016, GPA: 3.92/4.00. 
+\end{itemize}
+
+\subsection*{\sf Publications}
+\begin{itemize}
+\item[] C. Sheagren et al., Atomic layer deposition niobium nitride films for high-Q resonators. \textit{J Low Temp Phys} (2020). \href{https://doi.org/10.1007/s10909-020-02336-2}{https://doi.org/10.1007/s10909-020-02336-2}.
+\end{itemize}
+
+\subsection*{\sf Conferences Attended}
+\begin{itemize}
+\item[] \textbf{LTD-18:} Low Temperature Detectors Workshop 2019 (Milan, Italy). Poster. 
+\item[] \textbf{APS Mar19:} American Physical Society 2019 March Meeting (Boston, MA.). Talk. 
+\item[] \textbf{AVS Pr18:} American Vacuum Society 2018 Prairie Chapter Symposium \\(Chicago, IL). Poster.
+\end{itemize}
+
+\subsection*{\sf Research \& Internships}
+\begin{itemize}
+\item[] \textbf{UChicago: MKIDs}: Fabricating novel Atomic Layer Deposition nitrides for resonator-based CMB detectors. \hfill (\href{http://kicp.uchicago.edu/~shiro/erik/}{Erik$\,\,$Shirokoff})
+\item[] \textbf{UChicago: X-Ray Optics}: Simulating nanofabricated collimator for 100nm-resolution X-ray tomography at APS beamline. \hfill (\href{https://voices.uchicago.edu/larivierelab/}{Patrick$\,\,$La$\,$Rivi\`ere})
+\item[] \textbf{Fermilab: Accelerator Materials}: Electron irradiation and superconducting Nb, $\text{Nb}_3\text{Sn}$ -- Summer 2019 Lee Teng Internship.  \hfill (\href{https://www.linkedin.com/in/tiziana-spina-74114646}{Tiziana$\,\,$Spina})
+
+
+\end{itemize}
+
+
+\subsection*{\sf Computation Skills}
+
+\begin{itemize}
+\item[] \textbf{Competent}: Python, \LaTeX 
+\item[] \textbf{Proficient}: bash, git, vim, HTML, topas (Monte Carlo)
+\item[] \textbf{Learning}: tensorflow, SQL, dash
+\item[] \textbf{Engineering}: Nanofabrication, Cryomechanics, Machine Shop, Precision soldering. 
+
+\item[] \textbf{Languages}: English, Mandarin Chinese (Proficient).
+\item[] \textbf{Other interests}: Second degree black belt, Intermediate saxophonist, Marvel movies.
+\end{itemize}
+
+\subsection*{\sf Other Interests}
+\begin{itemize}
+\item[] Nanofabrication
+\item[] Machine shop \& soldering
+\item[] Photography (\hre
+\item[] Second degree black belt
+\item[] Musical instruments: piano, saxophone, clarinet
+\item[] Action/Spy/Superhero movies
+\end{itemize}
+
+
+
+\subsection*{\sf Courses Employed}
+
+\begin{alignat*}{4}
+	&\text{Autumn }&2017:\quad &\text{MATH 13100 (Intro to Calculus I) as Junior Tutor}\\
+	&\text{Winter } &2018:\quad &\text{MATH 15200 (Calculus II) as Course Assistant}\\
+	&\text{Spring} &2018: \quad &\text{MATH 15300 (Calculus III) as Course Assistant}\\
+	&&&\text{MATH 19620 (Linear Algebra) as Grader}\\
+		&\text{Autumn }&2018:\quad &\text{MATH 15100 (Calculus I) as Course Assistant}\\
+	&\text{Winter } &2019:\quad &\text{MATH 15200 (Calculus II) as Course Assistant}\\
+	&\text{Spring\!} &2019: \quad &\text{MATH 15300 (Calculus III) as Course Assistant}\\
+	&\text{Winter }&2020:\quad &\text{MATH 13300 (Intro to Calculus II) as Junior Tutor}\\
+		&&&\text{MATH 19520 (Multivariable Calculus) as Grader}\\
+			&\text{Spring\!} &2020: \quad &\text{General Tutor - Math department}\\
+\end{alignat*}
+
+\subsection*{\sf Outreach}
+\begin{itemize}
+\item[] {\bf UChicago Society of Physics Students}: Board Member, March 2018-March 2019.
+
+\item[] {\bf Adler Planetarium}: Space Visualization Laboratory Speaker, Sep. 2018-Sep. 2019.
+
+\item[] {\bf UChicago Math Club}: President, Sep. 2019-June 2020.\\
+\end{itemize}
+\end{document}
