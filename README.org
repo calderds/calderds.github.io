@@ -195,6 +195,7 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
       <li> <b>MBP Excellence Award</b> - SRI, Physical Sciences Platform <br></br>
 
         $6k | 2020-2021
+	<br></br>
       <li> <b>UChicago President's Scholarship</b> <br></br>
 
         $4k | 2016-2017
