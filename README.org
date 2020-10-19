@@ -128,9 +128,11 @@ In this block, I create the body of the document, with the overall structure and
 
 * CONTENT BLOCKS
 
-Here are the blocks for each page in my website. (TODO: incorporate all files into this file)
+Here are the blocks for each page in my website. 
 
 ** HOME
+
+Here is the homepage that everyone visits when they reach my site. 
 
 #+BEGIN_SRC html
 <div id="Home" class="tabcontent">
@@ -164,6 +166,8 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 #+END_SRC
 
 ** ABOUT
+
+Here is a brief version of my academic CV; the full CV can be found at a link on this page. 
 
 #+BEGIN_SRC html
 <div id="About" class="tabcontent">
@@ -260,6 +264,8 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 
 ** NEWS
 
+This is where I give periodic updates as to what's happening in my life. 
+
 #+BEGIN_SRC html
 <div id="News" class="tabcontent">
   <h2 style="color:#ff5555">News</h2>
@@ -290,6 +296,8 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 #+END_SRC
 
 ** CONTACT
+
+Here is where I give some information about how to contact me if you want to get in touch. 
 
 #+BEGIN_SRC html
 <div id="Contact" class="tabcontent">
