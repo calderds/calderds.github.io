@@ -96,7 +96,7 @@ a {
 }
 .multirow {
     column-width: 25%;
-    column-count: 3;
+    column-count: 2;
     padding-left: 5%;
     padding-right: 5%;
 }
