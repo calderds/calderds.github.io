@@ -96,7 +96,7 @@ a {
 }
 .multirow {
     column-width: 25%;
-    column-count: 3;
+    column-count: 2;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -128,16 +128,18 @@ In this block, I create the body of the document, with the overall structure and
 
 * CONTENT BLOCKS
 
-Here are the blocks for each page in my website. (TODO: incorporate all files into this file)
+Here are the blocks for each page in my website. 
 
 ** HOME
+
+Here is the homepage that everyone visits when they reach my site. 
 
 #+BEGIN_SRC html
 <div id="Home" class="tabcontent">
   <h2 style="color:#bd93f9">Home</h2>
 <div class="multirow">
   <br>
-  <img src="./fnal_headshot.jpg" width=50%></img>
+  <img src="./Files/Grad/headshot.jpg" width=50%></img>
   <br>
   <br>
 
@@ -164,6 +166,8 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 #+END_SRC
 
 ** ABOUT
+
+Here is a brief version of my academic CV; the full CV can be found at a link on this page. 
 
 #+BEGIN_SRC html
 <div id="About" class="tabcontent">
@@ -252,13 +256,15 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 	<hr></hr>
 
 
-	<p>For full pdf version of my CV, click <a href="cv.pdf" target="_blank">here</a>.</p>
+	<p>For full pdf version of my CV, click <a href="./CV/CV_grad.pdf" target="_blank">here</a>.</p>
 
 	<p>For my undergrad website, click <a href="ug.html" target="_blank">here</a>.</p>
 </div>
 #+END_SRC
 
 ** NEWS
+
+This is where I give periodic updates as to what's happening in my life. 
 
 #+BEGIN_SRC html
 <div id="News" class="tabcontent">
@@ -295,6 +301,8 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 #+END_SRC
 
 ** CONTACT
+
+Here is where I give some information about how to contact me if you want to get in touch. 
 
 #+BEGIN_SRC html
 <div id="Contact" class="tabcontent">
