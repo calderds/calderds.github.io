@@ -264,6 +264,11 @@ Here are the blocks for each page in my website. (TODO: incorporate all files in
 <div id="News" class="tabcontent">
   <h2 style="color:#ff5555">News</h2>
 <div class="solid">
+    <h2>2020-12-12: Rocky Linux!</h2>
+    <p> I'm happy to announce that I'm contributing to Rocky Linux! Please check them out and help however you can! See their website at <a href="https://rockylinux.org">https://rockylinux.org.</a></p>
+</div>
+
+<div class="solid">
     <h2>2020-09-08: Starting Grad School!</h2>
     <p> I've successfully moved out of self-quarantine and am starting grad school today with the UToronto SGS orientation! Department and hospital orientations to come later this week.</p>
 </div>
