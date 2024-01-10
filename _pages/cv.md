@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+For a full CV, please see [here](/assets/pdf/cv.pdf).
 
 Education
 ======
@@ -28,8 +29,5 @@ Selected Conference Presentations
   
 Selected Teaching Experiences
 ======
-  <ul>{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
- {% endfor %}</ul>
+Please see [here](/teaching/).
 
-For a full CV, please see [here](/assets/pdf/cv.pdf).
