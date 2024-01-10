@@ -28,8 +28,8 @@ Selected Conference Presentations
   
 Selected Teaching Experiences
 ======
-{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+ {% endfor %}</ul>
 
 For a full CV, please see [here](/assets/pdf/cv.pdf).
