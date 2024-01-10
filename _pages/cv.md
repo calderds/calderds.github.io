@@ -26,4 +26,10 @@ Selected Conference Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Selected Teaching Experiences
+======
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 For a full CV, please see [here](/assets/pdf/cv.pdf).
