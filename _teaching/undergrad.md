@@ -8,8 +8,6 @@ date: September 2017
 location: "Chicago, IL, USA"
 ---
 
-Undergraduate experience as a TA, grader, and course assistant. 
-
 MATH 131-132: Introductory Calculus
 ======
 Junior Tutor Autumn 2017, Winter 2020

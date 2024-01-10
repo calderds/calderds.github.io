@@ -8,8 +8,6 @@ date: September 2022
 location: "Toronto, ON, Canada"
 ---
 
-Graduate experience as a TA.
-
 MBP 1201H: Introduction to Biostatistics
 ======
 TA Autumn 2022, Autumn 2023
