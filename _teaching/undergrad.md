@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/undergrad
 venue: "University of Chicago, Mathematics Department"
-date: 2017-2020
+date: September 2017; June 2020
 location: "Chicago, IL, USA"
 ---
 
