@@ -4,7 +4,7 @@ collection: talks
 type: "CMRxRecon Challenge Submission"
 permalink: /talks/2023_STACOM
 venue: "Statistical Atlases and Computational Modelling of the Heart"
-date: October 2023
+date: 2023-10-01
 location: "Vancouver, BC"
 ---
 
