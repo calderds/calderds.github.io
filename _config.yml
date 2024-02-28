@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Calder D. Sheagren"
 title_separator          : "-"
 name                     : &name "Calder D. Sheagren"
-description              : &description "personal description"
+description              : &description "personal website for academic research work"
 url                      : https://caldersheagren.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "calderds/calderds.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # (obviously) "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
