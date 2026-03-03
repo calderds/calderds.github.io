@@ -13,7 +13,7 @@ For a full CV, please see [here](/assets/pdf/cv.pdf).
 Education
 ======
 * B.S. in Mathematics, University of Chicago, 2020
-* Ph.D Candidate in Medical Biophysics, University of Toronto, 2025 (expected)
+* Ph.D in Medical Biophysics, University of Toronto, 2025
 
 Selected Publications
 ======
